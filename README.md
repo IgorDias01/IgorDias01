@@ -2,7 +2,7 @@
 <!-- BANNER -->
 <img  src= "https://github.com/IgorDias01/IgorDias01/blob/main/programming.gif" />
 
-<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+<img src="https://github.com/IgorDias01/IgorDias01/blob/main/hi.gif" width="300" align="right">
 
 📍I am Igor from Portugal and in this moment im learning
 how to programm in general.
