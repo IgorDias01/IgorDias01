@@ -1,6 +1,7 @@
 # Hi there, I'm Igor :)
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorDias01&show_icons=true&theme=tokyonight)
+
 Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
 
 It is the **red** team's turn to play.
