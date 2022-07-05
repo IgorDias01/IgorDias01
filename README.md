@@ -1,6 +1,14 @@
 # Hi there, I'm Igor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 <!-- BANNER -->
-<img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
+<img  src= "https://github.com/IgorDias01/IgorDias01/blob/main/programming.gif" />
+
+<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
+
+📍I am Igor from Portugal and in this moment im learning
+how to programm in general.
+Im curious and trying to get better and discover new things.
+- 🌱 I’m currently learning Java.
+- ⚡ Fun fact: I love to hear new music.
  
 <!-- GitHub Stats -->
 <table>
